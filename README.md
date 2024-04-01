@@ -1,4 +1,4 @@
-# Hackintosh-Gigabyte-Z690-AORUS-ULTRA-12600K-RX6900-XT-DDR5
+# Hackintosh-Gigabyte-Z690-Aorus-Ultra-12600K-RX6900-XT
 EFI Folder  
 Latest Mac OS: 14.4 (Sonoma)  
 Current OpenCore: 0.9.9
