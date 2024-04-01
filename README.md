@@ -9,7 +9,7 @@ CPU: Intel Core i5-12600K (Alder Lake)
 Graphics: AMD Radeon RX 6900 XT  
 RAM: Corsair Vengeance DDR5 64GB (2x32GB) 6400 MHz (XMP)  
 Storage: Samsung SSD 980 PRO with Heatsink 2TB  
-Ethernet: Intel I225-V
+Ethernet: Intel I225-V  
 Wifi: Intel AX210
 
 ## Bios
