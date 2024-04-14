@@ -64,8 +64,9 @@ Settings:
 - SMCProcessor.kext
 - SMCRadeonGPU.kext
 - SMCSuperIO.kext
-- USBInjectAll.kext
+- USBToolBox.kext
 - USBWakeFixup.kext
+- UTBMap.kext
 - VirtualSMC.kext
 - WhateverGreen.kext
 ## Benchmarks
