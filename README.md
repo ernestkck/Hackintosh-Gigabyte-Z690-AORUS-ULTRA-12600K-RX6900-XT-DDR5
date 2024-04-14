@@ -3,6 +3,8 @@ EFI Folder
 Latest Mac OS: 14.4 (Sonoma)  
 Current OpenCore: 0.9.9
 
+![screenshot](about.png)
+
 ## Hardware
 Motherboard: Gigabyte Z690 Aorus Ultra DDR5  
 CPU: Intel Core i5-12600K (Alder Lake)  
@@ -25,15 +27,16 @@ Settings:
 - USB
 - Ethernet
 - Wifi
-
-## What doesn't work (haven't tested yet)
-- USD Mapping
+- USB Mapping
 - iCloud/iMessage/FaceTime
+- Shutdown/Reboot
+
+## What doesn't work (or haven't been tested yet)
 - Bluetooth
 - Sleep
 - Temperature monitoring (CPU/GPU)
 - DRM content (Netflix, ATV+, Airplay 2 mirroring etc)
-- Shutdown/Reboot/Update to newer macOS builds
+- Update to newer macOS builds
 
 ## SSDTs
 - SSDT-AWAC
